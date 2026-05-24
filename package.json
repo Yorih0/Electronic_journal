@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/Yorih0/Electronic_journal#readme",
   "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
     "concurrently": "^9.2.1"
+  },
+  "dependencies": {
+    "sqlite3": "^6.0.1"
   }
 }
